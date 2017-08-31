@@ -3,8 +3,8 @@
 import sys
 
 def hello(name):
-  if name == 'jelle' or name == 'Close your issue properly':
-   print name, 'edadan'
+  if name == 'jelle' or name == 'Jelle van dijk':
+   print name, 'resolve the issue fast'
   else:
    print 'unknown'
 
